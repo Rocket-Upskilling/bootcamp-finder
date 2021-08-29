@@ -1,0 +1,57 @@
+description: |
+    Kikodo is an online only bootcamp and training platform founded in 2020 in Lausanne, Switzerland.
+    Kikodo is a 100% focused on python.
+
+    It uses a freemium model with thousands of daily active users, and a growing subscriber base.
+    It uses an online interactive learning interface with AI feedback to provide real time help whenever you are stuck.
+    There are 50,000 exersizes built into the site, and more are added each week,    
+display_name: Kikodo
+founded_year: 2020
+meta-description: 'Kikodo - No fuss python training'
+primary_email: benjamin@kikodo.io
+programs:
+  python-fundamentals:
+    admissions: fremium
+    cities:
+    - remote
+    commitment: flexible
+    cost_description: "0$ to 40$"
+    description: "Open ended, flexible Python training in the basics"
+    display_name: Python fundamentals
+    duration: 8
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - Python
+    tuition: 40 per month
+    tuition_units: USD
+  python-advanced:
+    admissions: interview
+    cities:
+    - remote
+    commitment: flexible
+    cost_description: "0$ to 40$"
+    description: "Advanced training in ML and AI using Python"
+    display_name: AI/ML using Python
+    duration: 8
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - Machine Learning
+    - Data Science
+    tuition: 40 per month
+    tuition_units: USD
+
+tagline: No fuss coding training
+twitter: kikodo_io
+website: https://www.kikodo.io/
